@@ -1,4 +1,7 @@
-# api documentation for  [ng-infinite-scroll (v1.3.0)](https://github.com/sroze/ngInfiniteScroll#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng-infinite-scroll.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng-infinite-scroll) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng-infinite-scroll.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng-infinite-scroll)
+# npmdoc-ng-infinite-scroll
+
+#### basic api documentation for  [ng-infinite-scroll (v1.3.0)](https://github.com/sroze/ngInfiniteScroll#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng-infinite-scroll.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng-infinite-scroll) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng-infinite-scroll.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng-infinite-scroll)
+
 #### Infinite scrolling for AngularJS
 
 [![NPM](https://nodei.co/npm/ng-infinite-scroll.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ng-infinite-scroll)
@@ -77,7 +80,8 @@
     "scripts": {
         "test": "grunt test:protractor-local"
     },
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
